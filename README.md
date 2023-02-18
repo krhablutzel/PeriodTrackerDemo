@@ -3,4 +3,4 @@ my description
 
 unihacks rocks!
 
-Greynold is the best hall
+Greynolds is the best hall
